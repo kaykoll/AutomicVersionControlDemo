@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<login>
+   <metadata>
+      <row>
+         <version>12.2.2</version>
+      </row>
+   </metadata>
+   <general_attributes>
+      <row>
+         <minimum_ae_version>11.2</minimum_ae_version>
+         <child_flags>00000000000000000000000000000000</child_flags>
+         <last_runtimes>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</last_runtimes>
+         <name>LOGIN.LOCAL.UNIX</name>
+         <type>LOGIN</type>
+         <versioning_id>524488729</versioning_id>
+      </row>
+   </general_attributes>
+   <logins>
+      <row>
+         <agent>UNIX01</agent>
+         <login>kol</login>
+         <platform>UNIX</platform>
+         <olc_vault>AutomationEngine</olc_vault>
+      </row>
+      <row>
+         <agent>UNIX02</agent>
+         <login>kol</login>
+         <platform>UNIX</platform>
+         <olc_vault>AutomationEngine</olc_vault>
+      </row>
+   </logins>
+</login>
