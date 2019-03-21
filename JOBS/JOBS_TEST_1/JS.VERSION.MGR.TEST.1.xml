@@ -33,4 +33,8 @@
          <unix_cmd></unix_cmd>
       </row>
    </job_attributes>
+   <rollback_definitions>
+      <row>
+      </row>
+   </rollback_definitions>
 </jobs>
