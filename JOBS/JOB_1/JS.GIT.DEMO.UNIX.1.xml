@@ -25,7 +25,7 @@
    </general_attributes>
    <scripts>
       <row>
-         <process>ls</process>
+         <process>ls -ali</process>
       </row>
    </scripts>
    <job_attributes>
